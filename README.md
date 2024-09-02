@@ -1,4 +1,4 @@
-# resume-kuliah-umum
+Smart Farming
 NARASUMBER : Dr. Hanif fakhrurroja S. SI M. T
 
 Program Barista adalah program untuk memberikan bantuan riset yang di lakukan oleh mahasiswa tingkat pada jenjang pendidikan Diploma IV/Skala satu skala dua atau setara dengan perguruan tinggi di dalam negeri
@@ -19,3 +19,12 @@ ada beberapa problematika pertanian di Indonesia, ada solusi juga
 -manajemen modern
 -orientasi pasar (lokal & global) 
 -SDM kompeten
+
+Drones dan Citra Satelit:
+
+Drones digunakan untuk memantau kesehatan tanaman, melakukan pemetaan, dan aplikasi pupuk atau pestisida secara tepat.
+Citra satelit memberikan informasi luas tentang kondisi tanah dan tanaman.
+Automasi dan Robotika:
+
+Robot digunakan untuk tugas-tugas seperti penanaman, pemupukan, dan panen, mengurangi kebutuhan tenaga kerja manual.
+Traktor dan mesin pertanian lainnya yang terotomatisasi

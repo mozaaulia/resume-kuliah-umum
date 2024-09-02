@@ -1,4 +1,5 @@
 Smart Farming
+
 NARASUMBER : Dr. Hanif fakhrurroja S. SI M. T
 
 Program Barista adalah program untuk memberikan bantuan riset yang di lakukan oleh mahasiswa tingkat pada jenjang pendidikan Diploma IV/Skala satu skala dua atau setara dengan perguruan tinggi di dalam negeri
